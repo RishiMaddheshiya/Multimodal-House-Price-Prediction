@@ -1,0 +1,1 @@
+{"numeric_features_fe": ["bed", "bath", "sqft", "log_sqft", "sqft_per_bed", "sqft_per_bath", "total_rooms", "city_target_enc"], "eff_target": 224}
